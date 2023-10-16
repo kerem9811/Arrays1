@@ -1,0 +1,4 @@
+try {                    } catch (NumberFormatException e) {
+                        showMessageDialog(null, "Ugyldig inndata. Skriv inn et heltall.");
+                        continue;
+                    }
